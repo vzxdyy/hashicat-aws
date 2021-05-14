@@ -7,7 +7,7 @@ terraform {
     hostname = "app.terraform.io"
     organization = "REYNALD-training"
     workspaces {
-      name = "hashicat-aws
+      name = "hashicat-aws"
     }
   }
 }
